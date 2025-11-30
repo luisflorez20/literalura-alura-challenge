@@ -37,7 +37,7 @@
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/literalura.git
+git clone https://github.com/luisflorez20/literalura-alura-challenge
 cd literalura
 ```
 
